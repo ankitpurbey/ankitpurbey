@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align ="right" alt ="coding" width ="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align ="right" alt ="Coding" width ="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitpurbey&label=Profile%20views&color=0e75b6&style=flat" alt="ankitpurbey" /> </p>
 
@@ -11,10 +11,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-kumar02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-kumar02/" height="30" width="40" /></a>
-</p>
-
-<p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/ankit-kumar02/](https://www.codechef.com/users/ankitpurbey)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/ankit-kumar02/](https://www.codechef.com/users/ankitpurbey)" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ankitpurbey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ankitpurbey" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/ankitkumaahw0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/ankitkumaahw0/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
